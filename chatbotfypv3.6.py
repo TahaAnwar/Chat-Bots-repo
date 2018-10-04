@@ -60,7 +60,7 @@ import uuid
 text='how old are you'
 language_code = 'en-US'
 session_id=  str(uuid.uuid4())
-project_id ='testrobot-196008'
+project_id ='myprojectidhere'
 from google.cloud import translate
 
 
